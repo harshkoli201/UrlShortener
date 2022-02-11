@@ -9,6 +9,7 @@ app.title("UrlShortener")
 app.geometry('500x500')
 
 
+
 def short(): 
         # sloved by using l = url.get() instead of l = Str(url.get())
 
